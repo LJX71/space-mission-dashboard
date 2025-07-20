@@ -15,7 +15,7 @@ A futuristic space mission dashboard designed to visualize satellite telemetry, 
 ## 📐 Design Tool
 
 Made using **Figma**  
-🔗 [Include a view-only Figma link here if possible]
+🔗 [https://www.figma.com/proto/hV6bvAjqsqQnwKkewFc7kT/cosmic-ui-ux?page-id=0%3A1&node-id=5-28&viewport=-171%2C294%2C0.19&t=r1KBslEHgu50Clwr-1&scaling=scale-down-width&content-scaling=fixed]
 
 ## 🧠 Features
 
