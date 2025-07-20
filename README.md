@@ -34,6 +34,8 @@ Made using **Figma**
 
 [https://www.figma.com/proto/hV6bvAjqsqQnwKkewFc7kT/cosmic-ui-ux?page-id=0%3A1&node-id=5-28&viewport=-171%2C294%2C0.19&t=r1KBslEHgu50Clwr-1&scaling=scale-down-width&content-scaling=fixed]
 
+A figma design file name " Cosmic UI_UX design file - Lokesh ola .fig " is also attached in this folder.
+
 ---
 
 Created with 💙 by [Lokesh Ola]
