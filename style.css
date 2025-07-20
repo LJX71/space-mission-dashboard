@@ -1,0 +1,733 @@
+.cosmo-track {
+  background-color: #0b0b0b;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.cosmo-track .overlap-wrapper {
+  background-color: #0b0b0b;
+  overflow: hidden;
+  width: 1984.22px;
+  height: 1411px;
+}
+
+.cosmo-track .overlap {
+  position: relative;
+  width: 2020px;
+  height: 1441px;
+  top: -11px;
+  left: -36px;
+}
+
+.cosmo-track .bg {
+  position: absolute;
+  width: 1984px;
+  height: 1411px;
+  top: 11px;
+  left: 36px;
+  object-fit: cover;
+}
+
+.cosmo-track .rectangle {
+  position: absolute;
+  width: 1441px;
+  height: 404px;
+  top: 519px;
+  left: -519px;
+  background-color: #091218;
+  border-radius: 27.56px;
+  transform: rotate(-90deg);
+}
+
+.cosmo-track .div {
+  position: absolute;
+  width: 260px;
+  height: 54px;
+  top: 297px;
+  left: 84px;
+  background-color: #ffffff36;
+  border-radius: 16.23px;
+  border: 0.41px solid;
+  border-color: #ffffff12;
+  backdrop-filter: blur(2.43px) brightness(100%);
+  -webkit-backdrop-filter: blur(2.43px) brightness(100%);
+}
+
+.cosmo-track .rectangle-2 {
+  position: absolute;
+  width: 751px;
+  height: 486px;
+  top: 400px;
+  left: 435px;
+  background-color: #000000;
+  border-radius: 23.99px;
+}
+
+.cosmo-track .img {
+  position: absolute;
+  width: 751px;
+  height: 486px;
+  top: 400px;
+  left: 1218px;
+  object-fit: cover;
+}
+
+.cosmo-track .rectangle-3 {
+  position: absolute;
+  width: 751px;
+  height: 486px;
+  top: 902px;
+  left: 435px;
+  background-color: #000000;
+  border-radius: 23.99px;
+}
+
+.cosmo-track .text-wrapper {
+  position: absolute;
+  top: 1106px;
+  left: 479px;
+  font-family: "Bruno Ace-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfbf;
+  font-size: 16.8px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .text-wrapper-2 {
+  position: absolute;
+  top: 1206px;
+  left: 479px;
+  font-family: "Bruno Ace-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfbf;
+  font-size: 16.8px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .rectangle-4 {
+  position: absolute;
+  width: 751px;
+  height: 486px;
+  top: 902px;
+  left: 1218px;
+  object-fit: cover;
+}
+
+.cosmo-track .text-wrapper-3 {
+  position: absolute;
+  top: 41px;
+  left: 955px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 68.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cosmo-track .dashboard-menu {
+  position: absolute;
+  top: 52px;
+  left: 67px;
+   font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 44.6px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cosmo-track .text-wrapper-4 {
+  position: absolute;
+  top: 142px;
+  left: 873px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30.2px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .acedc-cb {
+  position: absolute;
+  width: 414px;
+  height: 435px;
+  top: 923px;
+  left: 746px;
+}
+
+.cosmo-track .text-wrapper-5 {
+  position: absolute;
+  top: 460px;
+  left: 103px;
+ font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  color: #ffffff;
+  font-size: 30.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cosmo-track .text-wrapper-6 {
+  position: absolute;
+  top: 618px;
+  left: 103px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 30.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cosmo-track .text-wrapper-7 {
+  position: absolute;
+  top: 776px;
+  left: 103px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 30.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cosmo-track .text-wrapper-8 {
+  position: absolute;
+  top: 934px;
+  left: 103px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 30.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cosmo-track .text-wrapper-9 {
+  position: absolute;
+  top: 1092px;
+  left: 103px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 30.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cosmo-track .text-wrapper-10 {
+  position: absolute;
+  top: 1320px;
+  left: 179px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 30.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cosmo-track .text-wrapper-11 {
+  position: absolute;
+  top: 430px;
+  left: 1250px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .text-wrapper-12 {
+  position: absolute;
+  top: 733px;
+  left: 1857px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .text-wrapper-13 {
+  position: absolute;
+  top: 932px;
+  left: 1828px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24.6px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cosmo-track .text-wrapper-14 {
+  position: absolute;
+  top: 941px;
+  left: 463px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .text-wrapper-15 {
+  position: absolute;
+  top: 1051px;
+  left: 483px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22.7px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .text-wrapper-16 {
+  position: absolute;
+  top: 1141px;
+  left: 483px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22.7px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .text-wrapper-17 {
+  position: absolute;
+  top: 1241px;
+  left: 483px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22.7px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .text-wrapper-18 {
+  position: absolute;
+  top: 941px;
+  left: 1250px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .text-wrapper-19 {
+  position: absolute;
+  top: 938px;
+  left: 1722px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #bfbfbf;
+  font-size: 16.8px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .text-wrapper-20 {
+  position: absolute;
+  top: 1319px;
+  left: 1775px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15.8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cosmo-track .live-buttton {
+  position: absolute;
+  width: 235px;
+  height: 67px;
+  top: 262px;
+  left: 1091px;
+}
+
+.cosmo-track .overlap-group {
+  position: relative;
+  width: 231px;
+  height: 67px;
+  border-radius: 8.34px;
+  border: 0.42px solid;
+  border-color: #ffffff;
+}
+
+.cosmo-track .div-wrapper {
+  position: absolute;
+  width: 85px;
+  height: 62px;
+  top: 2px;
+  left: 4px;
+  background-color: #ffffff36;
+  border-radius: 8.53px;
+  border: 0.17px solid;
+  border-color: #ffffff12;
+  backdrop-filter: blur(1.04px) brightness(100%);
+  -webkit-backdrop-filter: blur(1.04px) brightness(100%);
+}
+
+.cosmo-track .text-wrapper-21 {
+  position: absolute;
+  top: 19px;
+  left: 15px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .overlap-2 {
+  position: absolute;
+  width: 134px;
+  height: 62px;
+  top: 2px;
+  left: 93px;
+  background-color: #090d15;
+  border-radius: 8.53px;
+  border: 0.17px solid;
+  border-color: #ffffff12;
+  backdrop-filter: blur(1.04px) brightness(100%);
+  -webkit-backdrop-filter: blur(1.04px) brightness(100%);
+}
+
+.cosmo-track .text-wrapper-22 {
+  position: absolute;
+  top: 19px;
+  left: 9px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;    
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .app-icon {
+  display: flex;
+  flex-direction: column;
+  width: 72px;
+  align-items: center;
+  gap: 5px;
+  position: absolute;
+  top: 1308px;
+  left: 78px;
+}
+
+.cosmo-track .icon {
+  position: relative;
+  width: 64px;
+  height: 64px;
+  background-image: url(./img/App\ Icon.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.cosmo-track .ad-fc-be {
+  position: absolute;
+  width: 526px;
+  height: 350px;
+  top: 424px;
+  left: 573px;
+  object-fit: cover;
+}
+
+.cosmo-track .text-wrapper-23 {
+  position: absolute;
+  top: 432px;
+  left: 463px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;     
+  letter-spacing: 1px;  
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cosmo-track .altitude-km {
+  position: absolute;
+  top: 780px;
+  left: 465px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;      
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16.8px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.cosmo-track .span {
+  color: #bfbfbf;
+}
+
+.cosmo-track .text-wrapper-24 {
+  color: #ffffff;
+}
+
+.cosmo-track .speed-info {
+  position: absolute;
+  width: 425px;
+  height: 105px;
+  top: 741px;
+  left: 735px;
+}
+
+.cosmo-track .overlap-3 {
+  position: absolute;
+  width: 138px;
+  height: 60px;
+  top: 0;
+  left: 1px;
+}
+
+.cosmo-track .battery-level {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Bruno Ace-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16.8px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.cosmo-track .line {
+  position: absolute;
+  width: 74px;
+  height: 5px;
+  top: 57px;
+  left: 51px;
+}
+
+.cosmo-track .signal {
+  position: absolute;
+  top: 0;
+  left: 191px;
+  font-family: "Bruno Ace-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16.8px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.cosmo-track .text-wrapper-25 {
+  position: absolute;
+  top: 75px;
+  left: 0;
+  font-family: "Bruno Ace-Regular", Helvetica;
+  font-weight: 400;
+  color: #bfbfbf;
+  font-size: 16.8px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.cosmo-track .text-wrapper-26 {
+  position: absolute;
+  top: 75px;
+  left: 374px;
+  font-family: "Bruno Ace-Regular", Helvetica;
+  font-weight: 400;
+  color: #ff5b5b;
+  font-size: 16.8px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.cosmo-track .velocity-s {
+  position: absolute;
+  top: 0;
+  left: 311px;
+  font-family: "Bruno Ace-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16.8px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.cosmo-track .overlap-4 {
+  position: absolute;
+  width: 290px;
+  height: 8px;
+  top: 84px;
+  left: 80px;
+}
+
+.cosmo-track .line-2 {
+  position: absolute;
+  width: 285px;
+  height: 8px;
+  top: 0;
+  left: 0;
+}
+
+.cosmo-track .line-3 {
+  position: absolute;
+  width: 110px;
+  height: 8px;
+  top: 0;
+  left: 180px;
+}
+
+.cosmo-track .line-4 {
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 750px;
+  left: 898px;
+  object-fit: cover;
+}
+
+.cosmo-track .line-5 {
+  position: absolute;
+  width: 1px;
+  height: 50px;
+  top: 750px;
+  left: 1018px;
+  object-fit: cover;
+}
+
+.cosmo-track .text-wrapper-27 {
+  position: absolute;
+  top: 309px;
+  left: 103px;
+  font-family: 'Bruno Ace', cursive;
+  font-size: 48px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 1.2;
+  font-weight: 600;
+  color: #76c0ff;
+  font-size: 30.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
